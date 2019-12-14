@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [tutorial](tutorial/README.md)
-   * [21-minutes-MySQL-basic-entry](gitbook/21-minutes-MySQL-basic-entry.md)
-   * [awesome-mysql](gitbook/awesome-mysql.md)
+   * [21-minutes-MySQL-basic-entry](tutorial/21-minutes-MySQL-basic-entry.md)
+   * [awesome-mysql](tutorial/awesome-mysql.md)
 * [examples](examples/README.md)
    * [创建表格](examples/create-table.md)
 * [chapter1](chapter1/README.md)
